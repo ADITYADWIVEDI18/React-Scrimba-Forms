@@ -9,7 +9,7 @@ export default function Form() {
      * Challenge: add an email field/state to the form
      */
       
-    console.log(formData)
+    console.log(formData) 
      
     function handleChange(event) {
         setFormData(prevFormData => {
