@@ -20,7 +20,7 @@ export default function Form() {
         })
     }
     
-    return (
+    return ( 
         <form> 
             <input
                 type="text"
