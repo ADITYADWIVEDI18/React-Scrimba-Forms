@@ -24,7 +24,7 @@ export default function Form() {
         <form> 
             <input
                 type="text"
-                placeholder="First Name"
+                placeholder="First Name" 
                 onChange={handleChange}
                 name="firstName"
             />
