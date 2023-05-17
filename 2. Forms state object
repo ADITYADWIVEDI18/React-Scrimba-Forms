@@ -3,7 +3,7 @@ import React from "react"
 export default function Form() {
     const [formData, setFormData] = React.useState(
         {firstName: "", lastName: "", email: ""} 
-    )
+    )  
          
     /**
      * Challenge: add an email field/state to the form
